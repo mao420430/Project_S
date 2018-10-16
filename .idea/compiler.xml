@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="xiaoserver" />
+        <module name="xiaoserver-1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="xiaoserver" target="1.8" />
+      <module name="xiaoserver-1" target="1.8" />
       <module name="xiaoServer1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
