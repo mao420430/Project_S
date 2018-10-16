@@ -1,6 +1,9 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
+### mac os ###
+.DS_Store
+
 ### STS ###
 .apt_generated
 .classpath
@@ -11,9 +14,9 @@
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+###.idea
 *.iws
-*.iml
+###*.iml
 *.ipr
 
 ### NetBeans ###
