@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Project_S.iml" filepath="$PROJECT_DIR$/.idea/Project_S.iml" />
       <module fileurl="file://$PROJECT_DIR$/xiaoserver/xiaoserver.iml" filepath="$PROJECT_DIR$/xiaoserver/xiaoserver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/xiaoserver/xiaoserver-1.iml" filepath="$PROJECT_DIR$/xiaoserver/xiaoserver-1.iml" />
     </modules>
   </component>
 </project>

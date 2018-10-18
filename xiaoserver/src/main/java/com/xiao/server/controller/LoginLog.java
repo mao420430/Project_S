@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class LoginLog {
     @RequestMapping("/login")
     public String Login(){
-        return "Login ";
+        return "Login  hot";
     }
 
 
