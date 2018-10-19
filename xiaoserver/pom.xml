@@ -73,7 +73,7 @@
 			<artifactId>netty-all</artifactId>
 			<version>4.1.30.Final</version>
 		</dependency>
-		
+
 		<!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore-nio -->
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
